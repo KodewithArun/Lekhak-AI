@@ -1,0 +1,31 @@
+# Environment Variables
+.env
+*.env
+
+# Virtual Environment
+.venv/
+venv/
+
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+.python-version
+test.py
+
+
+
+# Project Specific - Logs
+src/logs/
+logs/
+*.log
+*.log.*
+
+
+
+
